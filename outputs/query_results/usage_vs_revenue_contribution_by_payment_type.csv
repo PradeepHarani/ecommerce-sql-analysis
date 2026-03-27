@@ -1,0 +1,6 @@
+payment_type,usage_percentage,revenue_percentage,percentage_gap
+credit_card,73.92,78.34,4.42
+boleto,19.04,17.92,-1.12
+voucher,5.56,2.37,-3.19
+debit_card,1.47,1.36,-0.11
+not_defined,0.00,0,0
