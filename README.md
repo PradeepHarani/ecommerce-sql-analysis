@@ -62,7 +62,7 @@ The analysis is visualized using a Power BI dashboard to provide an interactive 
 - **Average Order Value (AOV) by State** – Highlights regional customer value differences  
 
 <p align="center">
-  <img src="outputs/charts/dashboard_overview.png" width="550">
+  <img src="outputs/charts/dashboard_overview.png" width="555">
 </p>
 ---
 
